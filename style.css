@@ -283,7 +283,7 @@ body {
 .avatar-wrap {
   width: 220px;
   height: 220px;
-  margin: 28px auto 22px;
+  margin: 28px auto 10px;
   border-radius: 50%;
   border: 2px solid var(--accent-soft);
   background: var(--bg-soft);
